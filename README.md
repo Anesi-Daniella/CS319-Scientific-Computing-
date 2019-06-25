@@ -1,1 +1,1 @@
-# College-work
+A little project I did in 3rd year where I had to design an algorithm(the friendship paradox) to simulate a particular network and Implement an algorithm for solving a problem associated with that network(Star and Hubs graph). For this project I received a mark of 29/35.
